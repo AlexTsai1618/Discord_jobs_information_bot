@@ -11,6 +11,7 @@ import (
 	"sort"
 	"strconv"
 	"time"
+	"os"
 )
 
 func Job_search(job_title string,host_title string,location string)string{
@@ -28,11 +29,11 @@ func Job_search(job_title string,host_title string,location string)string{
 		fmt.Println("Json file encoding error!")
 		log.Fatal(err)
 	}
-	
+	api_key := os.Getenv("API_KEY")
 	client := &http.Client{}
 	request, _ := http.NewRequest("POST",url,bytes.NewBuffer(json_data))
 	request.Header.Add("content-type","application/json")
-	request.Header.Add("X-RapidAPI-Key","f9559b42c8msh4da12ecf0857780p137b00jsn44dab9749bfb")
+	request.Header.Add("X-RapidAPI-Key",api_key)
 	request.Header.Add("X-RapidAPI-Host",host_title)
 
 	response, err := client.Do(request)
