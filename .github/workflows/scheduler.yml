@@ -18,3 +18,6 @@ jobs:
           DISCORD_BOT_TOKEN: ${{secrets.DISCORD_BOT_TOKEN}}
           DISCORD_CHANNEL_ID: ${{secrets.DISCORD_CHANNEL_ID}}
           API_KEY: ${{secrets.API_KEY}}
+      - run: git add .
+      - run: git commit -m "update job informations"
+      - run: git push
