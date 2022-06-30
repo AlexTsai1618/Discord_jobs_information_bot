@@ -1,13 +1,15 @@
 package main
 
 import (
-	"Discord_jobs_information_bot/services"	
+	"Discord_jobs_information_bot/services"
+	"fmt"
+	"os"
 )
 
 
 func main(){
 	Linkedin_jobs("2023 summer software engineer intern")
-	
+	fmt.Println(os.Getenv("DISCORD_BOT_TOKEN"),os.Getenv("API_TOKEN"),os.Getenv("DISCORD_CHANNEL_ID"))
 }
 
 func Linkedin_jobs(job_title string){
