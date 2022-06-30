@@ -43,9 +43,6 @@ func Job_search(job_title string,host_title string,location string)string{
 	}
 	
 	body,_ := ioutil.ReadAll(response.Body)
-	// fmt.Println("response Body",string(body))
-	
-	// json_file := json.MarshalIndent(body)
 	
 	time_stemps:= time.Now().Format("2006-01-02")
 //  
