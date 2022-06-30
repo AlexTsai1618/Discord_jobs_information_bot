@@ -1,4 +1,4 @@
-name: Post leetcode question to discord channel
+name: Post leetcode job information to discord channel
 
 on:
   workflow_dispatch:
