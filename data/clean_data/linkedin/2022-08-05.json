@@ -1,0 +1,20 @@
+[
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207494513",
+"job_location": "Atlanta, GA",
+"posted_date": "2022-08-05",
+"Posted_date_int": 20220805,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Grace Hopper Conference 2023 Summer Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/grace-hopper-conference-2023-summer-intern-software-engineer-at-salesforce-3182262550",
+"job_location": "Atlanta, GA",
+"posted_date": "2022-07-21",
+"Posted_date_int": 20220721,
+"Readme_update": ""
+}
+]
