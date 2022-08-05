@@ -12,3 +12,11 @@ type Linkedin_data struct{
 	Posted_date_int int
 	Readme_update	string
 }
+
+type Job struct{
+	Job_title    string
+	Job_url      string
+	Company_name string
+	Location     string
+	Posted_date  string
+}

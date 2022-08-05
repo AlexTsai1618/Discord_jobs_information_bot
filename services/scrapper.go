@@ -6,12 +6,13 @@ import (
 	"fmt"
 	"io/ioutil"
 	"log"
+	// "math/big"
 	"net/http"
+	"os"
 	"regexp"
 	"sort"
 	"strconv"
 	"time"
-	"os"
 )
 
 func Job_search(job_title string,host_title string,location string)string{
@@ -107,15 +108,31 @@ func Linkedin_bot_update(file_name string){
 	var local local_data
 	json.Unmarshal(job_visited, &local)
 
+	re := regexp.MustCompile("[0-9]+")
+	time_stemps:= time.Now().Format("2006-01-02")
+	temp_date := re.FindAllString(time_stemps,-1)[1]
+	int_data,_ := strconv.Atoi(temp_date)
+	
 	for i:=0; i < len(data); i++{
 		company_name := data[i].Company_name
 		job_title := data[i].Job_title
 		job_url := data[i].Job_url
 		job_location := data[i].Job_location
-		if !contains(local.Jobs_url,job_url){
+		
+
+		job_date_string := data[i].Posted_date
+		job_posted_month := re.FindAllString(data[i].Posted_date,-1)[1]
+		
+		job_posted_month_int,_ := strconv.Atoi(job_posted_month)
+
+		duration := int_data - job_posted_month_int
+		fmt.Println(int_data, job_posted_month_int, duration)
+		if (!contains(local.Jobs_url,job_url)&& (duration == 0)){
 			local.Jobs_url = append(local.Jobs_url,job_url)
-			bot(company_name,job_title,job_url,job_location)
+			bot(company_name,job_title,job_url,job_location,job_date_string)
 		}
+		
+		
 		continue
 	}
 
