@@ -24,6 +24,7 @@ jobs:
         env:
           MAIL: ${{secrets.MAIL}}
           NAME: ${{secrets.NAME}}
+      - run: git pull
       - run: git add .
       - run: git commit -m "update job informations"
       - run: git push
