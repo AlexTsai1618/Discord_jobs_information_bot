@@ -1,0 +1,29 @@
+[
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207494513",
+"job_location": "Atlanta, GA",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "State Farm",
+"job_title": "2023 Summer Intern - Software Engineer - PC Actuarial \u0026 UW Modeling",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/2023-summer-intern-software-engineer-pc-actuarial-uw-modeling-at-state-farm-3231277739",
+"job_location": "Atlanta, GA",
+"posted_date": "2022-08-25",
+"Posted_date_int": 20220825,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Grace Hopper Conference 2023 Summer Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/grace-hopper-conference-2023-summer-intern-software-engineer-at-salesforce-3182262550",
+"job_location": "Atlanta, GA",
+"posted_date": "2022-08-12",
+"Posted_date_int": 20220812,
+"Readme_update": ""
+}
+]
