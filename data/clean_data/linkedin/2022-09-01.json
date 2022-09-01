@@ -1,0 +1,227 @@
+[
+{
+"company_name": "WayUp",
+"job_title": "Kohl's Summer 2023 Technology: Software Engineer Internship",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/kohl-s-summer-2023-technology-software-engineer-internship-at-wayup-3243540539",
+"job_location": "Milwaukee, WI",
+"posted_date": "2022-09-01",
+"Posted_date_int": 20220901,
+"Readme_update": ""
+},
+{
+"company_name": "Garmin",
+"job_title": "Software Engineer Intern (Java, JavaScript, Python)",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-intern-java-javascript-python-at-garmin-3239941910",
+"job_location": "Boulder, CO",
+"posted_date": "2022-08-30",
+"Posted_date_int": 20220830,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207495316",
+"job_location": "San Francisco, CA",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207495315",
+"job_location": "Bellevue, WA",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207494513",
+"job_location": "Atlanta, GA",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207493468",
+"job_location": "Cambridge, MA",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207496313",
+"job_location": "Burlington, MA",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207493470",
+"job_location": "Raleigh, NC",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207495314",
+"job_location": "Herndon, VA",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207497218",
+"job_location": "Denver, CO",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2023 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2023-intern-software-engineer-at-salesforce-3207494514",
+"job_location": "Indianapolis, IN",
+"posted_date": "2022-08-27",
+"Posted_date_int": 20220827,
+"Readme_update": ""
+},
+{
+"company_name": "Workiva",
+"job_title": "2023 Summer - Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/2023-summer-software-engineer-intern-at-workiva-3240593114",
+"job_location": "United States",
+"posted_date": "2022-08-26",
+"Posted_date_int": 20220826,
+"Readme_update": ""
+},
+{
+"company_name": "Workiva",
+"job_title": "2023 Summer - Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/2023-summer-software-engineer-intern-at-workiva-3240587859",
+"job_location": "Denver, CO",
+"posted_date": "2022-08-26",
+"Posted_date_int": 20220826,
+"Readme_update": ""
+},
+{
+"company_name": "Workiva",
+"job_title": "2023 Summer - Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/2023-summer-software-engineer-intern-at-workiva-3240593116",
+"job_location": "Scottsdale, AZ",
+"posted_date": "2022-08-26",
+"Posted_date_int": 20220826,
+"Readme_update": ""
+},
+{
+"company_name": "Workiva",
+"job_title": "2023 Summer - Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/2023-summer-software-engineer-intern-at-workiva-3240592470",
+"job_location": "Bozeman, MT",
+"posted_date": "2022-08-26",
+"Posted_date_int": 20220826,
+"Readme_update": ""
+},
+{
+"company_name": "Workiva",
+"job_title": "2023 Summer - Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/2023-summer-software-engineer-intern-at-workiva-3240590755",
+"job_location": "Ames, IA",
+"posted_date": "2022-08-26",
+"Posted_date_int": 20220826,
+"Readme_update": ""
+},
+{
+"company_name": "Workiva",
+"job_title": "2023 Summer - Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/2023-summer-software-engineer-intern-at-workiva-3240590752",
+"job_location": "Missoula, MT",
+"posted_date": "2022-08-26",
+"Posted_date_int": 20220826,
+"Readme_update": ""
+},
+{
+"company_name": "Jobs via eFinancialCareers",
+"job_title": "2023 Summer Intern - Software Engineer, US",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/2023-summer-intern-software-engineer-us-at-jobs-via-efinancialcareers-3238729355",
+"job_location": "New York, NY",
+"posted_date": "2022-08-26",
+"Posted_date_int": 20220826,
+"Readme_update": ""
+},
+{
+"company_name": "PayPal",
+"job_title": "Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-3229946928",
+"job_location": "New York, NY",
+"posted_date": "2022-08-24",
+"Posted_date_int": 20220824,
+"Readme_update": ""
+},
+{
+"company_name": "PayPal",
+"job_title": "Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-3229949584",
+"job_location": "San Jose, CA",
+"posted_date": "2022-08-24",
+"Posted_date_int": 20220824,
+"Readme_update": ""
+},
+{
+"company_name": "PayPal",
+"job_title": "Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-3229948677",
+"job_location": "Chicago, IL",
+"posted_date": "2022-08-24",
+"Posted_date_int": 20220824,
+"Readme_update": ""
+},
+{
+"company_name": "PayPal",
+"job_title": "Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-3229947937",
+"job_location": "Austin, TX",
+"posted_date": "2022-08-24",
+"Posted_date_int": 20220824,
+"Readme_update": ""
+},
+{
+"company_name": "PayPal",
+"job_title": "Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-3229952229",
+"job_location": "Scottsdale, AZ",
+"posted_date": "2022-08-24",
+"Posted_date_int": 20220824,
+"Readme_update": ""
+},
+{
+"company_name": "PayPal",
+"job_title": "Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-3229949583",
+"job_location": "Timonium, MD",
+"posted_date": "2022-08-24",
+"Posted_date_int": 20220824,
+"Readme_update": ""
+},
+{
+"company_name": "PayPal",
+"job_title": "Software Engineer Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-3229951562",
+"job_location": "Omaha, NE",
+"posted_date": "2022-08-24",
+"Posted_date_int": 20220824,
+"Readme_update": ""
+}
+]
