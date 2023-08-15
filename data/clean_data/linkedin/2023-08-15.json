@@ -1,0 +1,20 @@
+[
+{
+"company_name": "Scholastic",
+"job_title": "Scholastic Summer Software Development Engineer In Test Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/scholastic-summer-software-development-engineer-in-test-intern-at-scholastic-3612208292",
+"job_location": "New York, NY",
+"posted_date": "2023-04-24",
+"Posted_date_int": 20230424,
+"Readme_update": ""
+},
+{
+"company_name": "Briggs \u0026 Stratton",
+"job_title": "Design Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/design-intern-at-briggs-stratton-3600882404",
+"job_location": "Milwaukee, WI",
+"posted_date": "2023-04-17",
+"Posted_date_int": 20230417,
+"Readme_update": ""
+}
+]
