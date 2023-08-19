@@ -6,7 +6,7 @@ import (
 
 
 func main(){
-	Linkedin_jobs("2023 summer software engineer intern")
+	Linkedin_jobs("2024 summer software engineer intern")
 	Riversmall_scrap()
 	
 }
