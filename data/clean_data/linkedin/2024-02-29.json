@@ -1,0 +1,29 @@
+[
+{
+"company_name": "Delta Air Lines",
+"job_title": "Intern, IT - Enterprise Technology (Summer 2024)",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/intern-it-enterprise-technology-summer-2024-at-delta-air-lines-3841965914",
+"job_location": "Atlanta, GA",
+"posted_date": "2024-02-29",
+"Posted_date_int": 20240229,
+"Readme_update": ""
+},
+{
+"company_name": "Lockheed Martin",
+"job_title": "Software Engineer (Manufacturing Digital Transformation) - Intern",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/software-engineer-manufacturing-digital-transformation-intern-at-lockheed-martin-3828524851",
+"job_location": "Marietta, GA",
+"posted_date": "2024-02-14",
+"Posted_date_int": 20240214,
+"Readme_update": ""
+},
+{
+"company_name": "Salesforce",
+"job_title": "Summer 2024 Intern - Software Engineer",
+"linkedin_job_url_cleaned": "https://www.linkedin.com/jobs/view/summer-2024-intern-software-engineer-at-salesforce-3815939693",
+"job_location": "Atlanta, GA",
+"posted_date": "2024-01-02",
+"Posted_date_int": 20240102,
+"Readme_update": ""
+}
+]
